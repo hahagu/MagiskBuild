@@ -2,21 +2,21 @@
   "app": {
     "version": "ab853e1f",
     "versionCode": "290",
-    "link": "https://github.com/hahagu/MagiskBuild/raw/master/app-debug.apk",
+    "link": "https://raw.githubusercontent.com/hahagu/MagiskBuild/master/app-debug.apk",
     "note": ""
   },
   "magisk": {
     "version": "e0a28158",
     "versionCode": "20402",
-    "link": "https://github.com/hahagu/MagiskBuild/raw/master/magisk-debug.zip",
+    "link": "https://raw.githubusercontent.com/hahagu/MagiskBuild/master/magisk-debug.zip",
     "note": "",
     "md5": "480a60c6356d9a684423529349de7497"
   },
   "uninstaller": {
-    "link": "https://github.com/hahagu/MagiskBuild/raw/master/magisk-uninstaller.zip"
+    "link": "https://raw.githubusercontent.com/hahagu/MagiskBuild/master/magisk-uninstaller.zip"
   },
   "stub": {
-    "versionCode": "9",
-    "link": "https://github.com/hahagu/MagiskBuild/raw/master/stub-debug.apk"
+    "versionCode": "10",
+    "link": "https://raw.githubusercontent.com/hahagu/MagiskBuild/master/stub-debug.apk"
   }
 }
